@@ -1,0 +1,12 @@
+#
+# MiniProjects are small projects/snippets of code
+# That dont need a full repository, but are too small for a snippet library
+#
+# Laffin
+#
+
+
+WhoIsHotter
+  A Small Project to demonstrate a simple WhoIsHotter with wins/losses tabulation.
+  Used as a demonstration, with sqlite
+  
