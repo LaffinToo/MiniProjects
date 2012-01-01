@@ -10,3 +10,5 @@ WhoIsHotter
   A Small Project to demonstrate a simple WhoIsHotter with wins/losses tabulation.
   Used as a demonstration, with sqlite
   
+HooksDemo
+  Another Project I done to demonstrate a simple hook system. This was part of a tutorial I posted on BTDev.Net
